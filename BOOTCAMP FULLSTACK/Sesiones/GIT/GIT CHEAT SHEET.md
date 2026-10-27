@@ -1,0 +1,1 @@
+![[diagrama_intro_git 1.png|700]]
